@@ -1,2 +1,6 @@
-# revisao-modulo-02-api-caldeira-codigo-comentado
-revisao-modulo-02-api-caldeira-codigo-comentado
+# CÓDIGO REFERENTE A AULA DE REVISÃO PARA O DESAFIO DO MÓDULO 2 (API).
+
+- O CÓDIGO FOI COMENTADO LINHA A LINHA PARA FINS DIDÁTICOS.
+- OS COMENTÁRIOS FORAM FEITOS POR MIM PARA COMPARTILHAR COM A TURMA.
+
+  
